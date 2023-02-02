@@ -1,0 +1,26 @@
+html{
+    height: 100%;
+}
+
+body{
+    margin: 10%;
+    margin-top: 10px;
+    height: 100%;
+    background: linear-gradient(to bottom, #255d04 -10%, #6a5411 19%);
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    color: darkcyan;
+}
+
+p{
+    color: rgb(2, 33, 33);;
+}
+
+strong{
+    font-size: x-large;
+}

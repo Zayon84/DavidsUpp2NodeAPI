@@ -57,7 +57,7 @@ app.get("/games", (req, res) =>{
 
 app.get("/", (req, res) =>{
     // res.send(game)
-    res.sendfile(__dirname + "/index.html")
+    res.sendFile(__dirname + "/index.html")
     // console.log(Movies)
     // res.send("hej")
 })
